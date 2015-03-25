@@ -1,3 +1,3 @@
 # FinalProject
 
-Look at this awesome readme I made!
+Look at this awesome readme I made! Hello there!
